@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:6.000000,
+https://p2.a.yximgs.com/udata/music/music_365553443e824b909349f4493a949f780.jpg
+#EXTINF:4.000000,
+https://p5.a.yximgs.com/udata/music/music_19aca43322304c888f340e426bb311e60.jpg
+#EXTINF:6.000000,
+https://p1.a.yximgs.com/udata/music/music_9e17b428ded54de3ada60e00a21717920.jpg
+#EXTINF:4.000000,
+https://p2.a.yximgs.com/udata/music/music_6fe6a0fecb8c4f8c81da4d6945f90d5e0.jpg
+#EXTINF:6.000000,
+https://p1.a.yximgs.com/udata/music/music_466f123a861141ce8c47eb00b4d507d80.jpg
+#EXTINF:3.160000,
+https://p2.a.yximgs.com/udata/music/music_c4f81c697b944536a2d35f2635f88b300.jpg
+#EXT-X-ENDLIST
